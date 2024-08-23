@@ -1,0 +1,39 @@
+name: Build and Deploy React App to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # This triggers the workflow on pushes to the main branch.
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          token: ${{ secrets.DEPLOY_TOKEN }}  # Use the PAT for checking out the code
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # Use Node.js 14.x; adjust as necessary based on your requirements
+
+      - name: Install dependencies
+        run: npm install  # Install npm dependencies
+
+      - name: Configure Git
+        run: |
+          git config --local user.email “[[mmoizk2004@gmail.com]]”
+          git config --local user.name “[[moizkhalidd]]”
+ - name: Build and deploy
+        env:
+          CI: false
+        run: |
+          npm run build
+          npx gh-pages -d build -t true -r https://x-access-token:${{ secrets.DEPLOY_TOKEN }}@github.com/[[moizkhalidd]]/[[moizkhalidd.github.io]].git  # Use the token in the URL
+
+      - name: Clean up post-deployment
+        run: rm -rf node_modules/
