@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "SWE Fellow @ Headstarter AI",
           "Industrial Mechatronics Engineer",
-          "Finland Scholor @ Aalto university",
+          "Bachelors of Data Science @ FAST university",
         ],
         autoStart: true,
         loop: true,
