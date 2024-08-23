@@ -28,7 +28,7 @@ jobs:
         run: |
           git config --local user.email “mmoizk2004@gmail.com”
           git config --local user.name “moizkhalidd”
- - name: Build and deploy
+      - name: Build and deploy
         env:
           CI: false
         run: |
