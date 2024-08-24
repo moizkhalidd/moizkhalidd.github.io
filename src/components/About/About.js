@@ -9,6 +9,7 @@ import Toolstack from "./Toolstack";
 import teach from "../../Assets/teach.png";
 import wwf from "../../Assets/wwf.png";
 import stan from "../../Assets/stanford.png";
+import penn from "../../Assets/penn.png";
 
  function About() {
    return (
@@ -60,7 +61,7 @@ import stan from "../../Assets/stanford.png";
            </Col>
            <Col
              md={5}
-             style={{ paddingTop: "40px", paddingBottom: "50px" }}
+             style={{ paddingTop: "30px", paddingBottom: "50px" }}
              className="about-img"
            >
              <img src={teach} alt="about" className="img-fluid" />
@@ -98,7 +99,7 @@ import stan from "../../Assets/stanford.png";
          </Row>  
 
          <h1 className="project-heading">
-           <strong className="purple">Academic Achievements</strong> I use
+           <strong className="purple">Academic Achievements</strong>
          </h1>
 
          <Row style={{ justifyContent: "center", padding: "10px" }}>
@@ -121,7 +122,7 @@ import stan from "../../Assets/stanford.png";
            </Col>
            <Col
              md={5}
-             style={{ paddingTop: "40px", paddingBottom: "50px" }}
+             style={{ paddingTop: "30px", paddingBottom: "50px" }}
              className="about-img"
            >
              <img src={stan} alt="about" className="img-fluid" />
@@ -150,11 +151,9 @@ import stan from "../../Assets/stanford.png";
              style={{ paddingTop: "40px", paddingBottom: "50px" }}
              className="about-img"
            >
-             <img src={wwf} alt="about" className="img-fluid" />
+             <img src={penn} alt="about" className="img-fluid" />
            </Col>
          </Row>  
-            
-
          <Github />
        </Container>
      </Container>
