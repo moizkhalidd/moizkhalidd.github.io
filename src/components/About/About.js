@@ -181,8 +181,6 @@ import usefp from "../../Assets/usefp.png";
              <img src={usefp} alt="about" className="img-fluid" />
            </Col>
          </Row>  
-              
-         <Github />
        </Container>
      </Container>
    );
