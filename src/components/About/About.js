@@ -129,8 +129,7 @@ import usefp from "../../Assets/usefp.png";
              <img src={stan} alt="about" className="img-fluid" />
            </Col>
          </Row>
-
-
+              
              <Row style={{ justifyContent: "center", padding: "10px" }}>
            <Col
              md={7}
