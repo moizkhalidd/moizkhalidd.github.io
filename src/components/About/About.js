@@ -54,7 +54,7 @@ import usefp from "../../Assets/usefp.png";
              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Teach For Pakistan
              </h1>
-             <p>
+             <p style={{ textAlign: "justify" }}>
               During this internship at Teach for Pakistan (national chapter of "Teach for All"), I learned in detail from successful leaders in Pakistan about running proper and influential campaigns. 
               <br />
               As the leader of my group I was able to collect funds for more than 1500 underprivileged students in Pakistan.
@@ -82,7 +82,7 @@ import usefp from "../../Assets/usefp.png";
              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               WWF
              </h1>
-             <p>
+             <p style={{ textAlign: "justify" }}>
               As an Eco-Intern working with WWF, I ran campaigns spreading awareness on endangered species and effects of excessive plastic deposits on earth. 
               <br /> 
               Through a plastic collection drive I managed to collect more than 10 kilograms of plastic waste.
@@ -115,7 +115,7 @@ import usefp from "../../Assets/usefp.png";
              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Machine Learning Specialization
              </h1>
-             <p>
+             <p style={{ textAlign: "justify" }}>
               Completed a specialization course on Coursera by Stanford University and Deep Learning AI where I learned in detail about supervised and unsupervised machine learning.
               <br />
               The course's main focus was on regression and classification models.
@@ -142,7 +142,7 @@ import usefp from "../../Assets/usefp.png";
              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Engineering Summer Academy at Penn (ESAP) Program
              </h1>
-             <p>
+             <p style={{ textAlign: "justify" }}>
               I was the only student from Pakistan to be selected for the ESAP program by UPenn in the Nanotechnology course and with that I was awarded a 97% scholarship for the whole program.
              </p>  
            </Col>
@@ -167,7 +167,7 @@ import usefp from "../../Assets/usefp.png";
              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Competitive College Club (CCC) at United States Educational Foundation in Pakistan (USEFP)
              </h1>
-             <p>
+             <p style={{ textAlign: "justify" }}>
               Selected from all over Pakistan for CCC by USEFP. Participated in volunteering activities and team building workshops. 
             <br />
               CCC is an intensive cohort-advising, highly selective and exclusive program for school students who are in the top 10% of their class in addition to having strong extracurriculars.
