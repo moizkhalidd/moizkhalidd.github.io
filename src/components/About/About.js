@@ -64,7 +64,7 @@ import teach from "../../Assets/teach.png";
              <img src={teach} alt="about" className="img-fluid" />
            </Col>
          </Row>
-         <Techstack />
+        
 
          <h1 className="project-heading">
            <strong className="purple">Tools</strong> I use
