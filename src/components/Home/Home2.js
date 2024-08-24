@@ -26,7 +26,7 @@ function Home2() {
               <br /><br />
               <br />Languages I code in:
               <i>
-                <b className="purple"> Python | C++ | HTML | JS | CSS | VB . </b>
+                <b className="purple"> Python | C++ | HTML | JS | CSS | VB </b>
               </i>
               <br />
               <br />
