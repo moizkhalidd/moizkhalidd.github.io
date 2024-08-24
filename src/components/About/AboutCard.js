@@ -13,7 +13,7 @@ import { ImPointRight } from "react-icons/im";
              <br />
              I am currently pursuing a Bachelor of Science (BS) in Data Science at the National University of Computer and Emerging Sciences (NUCES - FAST) in Islamabad, Pakistan, with an expected graduation date in May 2027.
              <br />
-              I have achieved a Major GPA of 3.65/4.0 and a Cumulative GPA of 3.72/4.0. In recognition of my academic excellence, I was awarded the Silver Medal in my first semester for achieving the top result in my entire batch in 2023.
+              I have achieved a Cumulative GPA of 3.72/4.0. In recognition of my academic excellence, I was awarded the Silver Medal in my first semester for achieving the top result in my entire batch in 2023.
              Mesra.
              <br />
               Additionally, I have been named to the Dean's List for both Fall 2023 and Spring 2024.
