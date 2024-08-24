@@ -30,14 +30,14 @@ function Home2() {
               </i>
               <br />
               <br />
-              Worked with: &nbsp;
-              <i>
-                <b className="purple">ROS2 | Gazebo | MoveIT | OpenCV | AWS ASK SDK | ReactJS | NodeJS | Typescript | TensorFlow | JupyterNotebook</b> and
-                {" "}
-                <b className="purple">
-                MediaPipe.
-                </b>
-              </i>
+             // Worked with: &nbsp;
+              //<i>
+                //<b className="purple">ROS2 | Gazebo | MoveIT | OpenCV | AWS ASK SDK | ReactJS | NodeJS | Typescript | TensorFlow | JupyterNotebook</b> and
+                //{" "}
+                //<b className="purple">
+                //MediaPipe.
+                //</b>
+              //</i>
               <br />
               <br />
               <div className="custom-line">
