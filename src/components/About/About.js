@@ -6,6 +6,7 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import teach from "../../Assets/teach.png";
 
  function About() {
    return (
@@ -35,9 +36,34 @@ import Toolstack from "./Toolstack";
            </Col>
          </Row>
          <h1 className="project-heading">
-           Professional <strong className="purple">Skillset </strong>
+           =<strong className="purple">Experience </strong>
          </h1>
-
+           <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >
+             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Teach For Pakistan
+             </h1>
+             <p>
+              During this internship at Teach for Pakistan (national chapter of "Teach for All"), I learned in detail from successful leaders in Pakistan about running proper and influential campaigns. 
+              <br />
+              As the leader of my group I was able to collect funds for more than 1500 underprivileged students in Pakistan.
+             </p>  
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "120px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={teach} alt="about" className="img-fluid" />
+           </Col>
+         </Row>
          <Techstack />
 
          <h1 className="project-heading">
