@@ -11,10 +11,12 @@ import { ImPointRight } from "react-icons/im";
              Hi Everyone, I am <span className="purple">Muhammad Moiz Khalid </span>
              from <span className="purple"> Islamabad, Pakistan.</span>
              <br />
-             I am currently employed as a software developer at Juspay.
+             I am currently pursuing a Bachelor of Science (BS) in Data Science at the National University of Computer and Emerging Sciences (NUCES - FAST) in Islamabad, Pakistan, with an expected graduation date in May 2027.
              <br />
-             I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
+              I have achieved a Major GPA of 3.65/4.0 and a Cumulative GPA of 3.72/4.0. In recognition of my academic excellence, I was awarded the Silver Medal in my first semester for achieving the top result in my entire batch in 2023.
              Mesra.
+             <br />
+              Additionally, I have been named to the Dean's List for both Fall 2023 and Spring 2024.
              <br />
              <br />
              Apart from coding, some other activities that I love to do!
