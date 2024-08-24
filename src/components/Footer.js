@@ -65,16 +65,16 @@ console.log(today); // Outputs today's date in YYYY-MM-DD format
                 <FaLinkedinIn />
               </a>
             </li>
-            {/* <li className="social-icons">
+            { <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
+                href="https://www.instagram.com/moiz.khalidd/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />
               </a>
-            </li> */}
+            </li> }
           </ul>
         </Col>
       </Row>
