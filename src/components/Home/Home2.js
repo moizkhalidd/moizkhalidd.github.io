@@ -20,8 +20,8 @@ function Home2() {
               MY <span className="purple"> INTRODUCTION </span> 
             </h1>
             <p className="home-about-body">
-               I'm a second-year undegraduate student at FAST NUCES Islamabad studying Data Science.
-               I'm passionate to pursue my career in Machine Learning, AI & software development and am always eager to hear about new opportunities in these domains. 
+               I'm a second-year undegraduate student at FAST NUCES Islamabad studying Data Science. <br />
+               I'm passionate to pursue my career in Machine Learning, AI & software development and am always eager to hear about new opportunities in these domains. <br /> 
                Feel free to reach me at mmoizkhalidd@gmail.com. 
               <br />
               <br />Languages I code in:
@@ -61,7 +61,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/saadahmedrana"
+                  href="https://github.com/moizkhalidd"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,7 +81,7 @@ function Home2() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/saadahmedrana/"
+                  href="https://www.linkedin.com/in/moiz-khalid-84b82527a/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
