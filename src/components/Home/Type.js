@@ -12,7 +12,7 @@ function Type() {
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 1,
+        deleteSpeed: 2,
         pauseFor: 1000,
         delay: 4,
       }}
