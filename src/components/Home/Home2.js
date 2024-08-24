@@ -54,9 +54,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>CONTACT ME</h1>
+            <h1>FIND ME ON</h1>
             <p>
-               <span className="purple">AT </span>
+               <span className="purple">Feel free to connect with me </span>
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
@@ -89,6 +89,16 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
+               <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillInstagram />
+                </a>
+              </li>      
             </ul>
           </Col>
         </Row>
