@@ -33,7 +33,7 @@ import usefp from "../../Assets/usefp.png";
            </Col>
            <Col
              md={5}
-             style={{ paddingTop: "120px", paddingBottom: "50px" }}
+             style={{ paddingTop: "60px", paddingBottom: "50px" }}
              className="about-img"
            >
              <img src={me} alt="about" className="img-fluid" />
