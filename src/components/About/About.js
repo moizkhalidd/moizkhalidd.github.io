@@ -171,7 +171,8 @@ import usefp from "../../Assets/usefp.png";
              <p>
               Selected from all over Pakistan for CCC by USEFP. Participated in volunteering activities and team building workshops. 
             <br />
-              CCC is an intensive cohort-advising, highly selective and exclusive program for school students who are in the top 10% of their class in addition to having strong extracurriculars
+              CCC is an intensive cohort-advising, highly selective and exclusive program for school students who are in the top 10% of their class in addition to having strong extracurriculars.
+              </p>
            </Col>
            <Col
              md={5}
