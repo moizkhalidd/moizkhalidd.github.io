@@ -11,10 +11,9 @@ import { ImPointRight } from "react-icons/im";
              Hi Everyone, I am <span className="purple">Muhammad Moiz Khalid </span>
              from <span className="purple"> Islamabad, Pakistan.</span>
              <br />
-             I am currently pursuing a Bachelor of Science (BS) in Data Science at the National University of Computer and Emerging Sciences (NUCES - FAST) in Islamabad, Pakistan, with an expected graduation date in May 2027.
+             I am currently pursuing a <span className="purple"> Bachelor of Science (BS) in Data Science </span> at the <span className="purple"> National University of Computer and Emerging Sciences (NUCES - FAST) </span> in Islamabad, Pakistan, with an expected graduation date in May 2027.
              <br />
               I have achieved a Cumulative GPA of 3.72/4.0. In recognition of my academic excellence, I was awarded the Silver Medal in my first semester for achieving the top result in my entire batch in 2023.
-             Mesra.
              <br />
               Additionally, I have been named to the Dean's List for both Fall 2023 and Spring 2024.
              <br />
