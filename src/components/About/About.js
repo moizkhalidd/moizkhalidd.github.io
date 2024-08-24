@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-import laptopImg from "../../Assets/about.png";
+import me from "../../Assets/me.png";
 import Toolstack from "./Toolstack";
 import teach from "../../Assets/teach.png";
 import wwf from "../../Assets/wwf.png";
@@ -36,7 +36,7 @@ import usefp from "../../Assets/usefp.png";
              style={{ paddingTop: "120px", paddingBottom: "50px" }}
              className="about-img"
            >
-             <img src={laptopImg} alt="about" className="img-fluid" />
+             <img src={me} alt="about" className="img-fluid" />
            </Col>
          </Row>
          <h1 className="project-heading">
