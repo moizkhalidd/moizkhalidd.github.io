@@ -10,6 +10,7 @@ import teach from "../../Assets/teach.png";
 import wwf from "../../Assets/wwf.png";
 import stan from "../../Assets/stanford.png";
 import penn from "../../Assets/penn.png";
+import usefp from "../../Assets/usefp.png";
 
  function About() {
    return (
@@ -39,7 +40,7 @@ import penn from "../../Assets/penn.png";
            </Col>
          </Row>
          <h1 className="project-heading">
-           <strong className="purple">Experience </strong>
+           <strong className="purple">Experiences </strong>
          </h1>
            <Row style={{ justifyContent: "center", padding: "10px" }}>
            <Col
@@ -154,6 +155,33 @@ import penn from "../../Assets/penn.png";
              <img src={penn} alt="about" className="img-fluid" />
            </Col>
          </Row>  
+
+           <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >
+             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Competitive College Club (CCC) at United States Educational Foundation in Pakistan (USEFP)
+             </h1>
+             <p>
+              Selected from all over Pakistan for CCC by USEFP. Participated in volunteering activities and team building workshops. 
+            <br />
+              CCC is an intensive cohort-advising, highly selective and exclusive program for school students who are in the top 10% of their class in addition to having strong extracurriculars
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "40px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={usefp} alt="about" className="img-fluid" />
+           </Col>
+         </Row>  
+              
          <Github />
        </Container>
      </Container>
