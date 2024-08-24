@@ -7,6 +7,7 @@ import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import teach from "../../Assets/teach.png";
+import wwf from "../../Assets/wwf.png";
 
  function About() {
    return (
@@ -58,13 +59,42 @@ import teach from "../../Assets/teach.png";
            </Col>
            <Col
              md={5}
-             style={{ paddingTop: "70px", paddingBottom: "50px" }}
+             style={{ paddingTop: "40px", paddingBottom: "50px" }}
              className="about-img"
            >
              <img src={teach} alt="about" className="img-fluid" />
            </Col>
          </Row>
-        
+
+
+             <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >
+             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              WWF
+             </h1>
+             <p>
+              As an Eco-Intern working with WWF, I ran campaigns spreading awareness on endangered species and effects of excessive plastic deposits on earth. 
+              <br /> 
+              Through a plastic collection drive I managed to collect more than 10 kilograms of plastic waste.
+              <br />
+              During this internship I also learned graphic designing as I designed posters and flyers to promote our campaign on social media.
+             </p>  
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "40px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={wwf} alt="about" className="img-fluid" />
+           </Col>
+         </Row>  
 
          <h1 className="project-heading">
            <strong className="purple">Tools</strong> I use
