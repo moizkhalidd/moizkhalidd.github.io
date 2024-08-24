@@ -41,7 +41,7 @@ function Home2() {
               <br />
               <br />
               <div className="custom-line">
-              Check out my Projects and Resume from the tabs
+              Learn more about me from the tabs
                 <b className="purple"> ABOVE</b>
               </div>
             </p>
