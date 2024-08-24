@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c08d3950.css",
-    "main.js": "/static/js/main.93808fc6.js",
+    "main.js": "/static/js/main.3482e929.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/moiz.jpg": "/static/media/moiz.34b64b50862f7847512e.jpg",
@@ -19,16 +19,17 @@
     "static/media/memoji.png": "/static/media/memoji.a38c107cb6562adff9c7.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/teach.png": "/static/media/teach.a16bcd35d6d2c997324a.png",
+    "static/media/stanford.png": "/static/media/stanford.ee9f401517d159fc79bb.png",
     "static/media/wwf.png": "/static/media/wwf.bc6fd84a1b67abb337d1.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.c08d3950.css.map": "/static/css/main.c08d3950.css.map",
-    "main.93808fc6.js.map": "/static/js/main.93808fc6.js.map",
+    "main.3482e929.js.map": "/static/js/main.3482e929.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c08d3950.css",
-    "static/js/main.93808fc6.js"
+    "static/js/main.3482e929.js"
   ]
 }
