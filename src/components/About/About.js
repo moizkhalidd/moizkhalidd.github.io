@@ -8,6 +8,7 @@ import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
 import teach from "../../Assets/teach.png";
 import wwf from "../../Assets/wwf.png";
+import stan from "../../Assets/stanford.png";
 
  function About() {
    return (
@@ -97,9 +98,62 @@ import wwf from "../../Assets/wwf.png";
          </Row>  
 
          <h1 className="project-heading">
-           <strong className="purple">Tools</strong> I use
+           <strong className="purple">Academic Achievements</strong> I use
          </h1>
-         <Toolstack />
+
+         <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >
+             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Machine Learning Specialization
+             </h1>
+             <p>
+              Completed a specialization course on Coursera by Stanford University and Deep Learning AI where I learned in detail about supervised and unsupervised machine learning.
+              <br />
+              The course's main focus was on regression and classification models.
+             </p>  
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "40px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={stan} alt="about" className="img-fluid" />
+           </Col>
+         </Row>
+
+
+             <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >
+             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Engineering Summer Academy at Penn (ESAP) Program
+             </h1>
+             <p>
+              I was the only student from Pakistan to be selected for the ESAP program by UPenn in the Nanotechnology course and with that I was awarded a 97% scholarship for the whole program.
+             </p>  
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "40px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={wwf} alt="about" className="img-fluid" />
+           </Col>
+         </Row>  
+            
 
          <Github />
        </Container>
