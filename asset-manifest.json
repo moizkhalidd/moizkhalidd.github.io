@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c08d3950.css",
-    "main.js": "/static/js/main.62457e71.js",
+    "main.js": "/static/js/main.58287541.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/moiz.jpg": "/static/media/moiz.34b64b50862f7847512e.jpg",
@@ -16,8 +16,8 @@
     "static/media/moizCV.pdf": "/static/media/moizCV.b04ad7666dc890795986.pdf",
     "static/media/Pantry.png": "/static/media/Pantry.00b113da59e626527b91.png",
     "static/media/tablogo.png": "/static/media/tablogo.7da87c89ea0e91324481.png",
-    "static/media/penn.png": "/static/media/penn.db8323b0262642184139.png",
     "static/media/memoji.png": "/static/media/memoji.a38c107cb6562adff9c7.png",
+    "static/media/penn.png": "/static/media/penn.b538ce402c123c958ce5.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/teach.png": "/static/media/teach.a16bcd35d6d2c997324a.png",
     "static/media/stanford.png": "/static/media/stanford.ee9f401517d159fc79bb.png",
@@ -25,12 +25,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.c08d3950.css.map": "/static/css/main.c08d3950.css.map",
-    "main.62457e71.js.map": "/static/js/main.62457e71.js.map",
+    "main.58287541.js.map": "/static/js/main.58287541.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c08d3950.css",
-    "static/js/main.62457e71.js"
+    "static/js/main.58287541.js"
   ]
 }
