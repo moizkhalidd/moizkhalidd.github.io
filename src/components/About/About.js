@@ -36,7 +36,7 @@ import teach from "../../Assets/teach.png";
            </Col>
          </Row>
          <h1 className="project-heading">
-           =<strong className="purple">Experience </strong>
+           <strong className="purple">Experience </strong>
          </h1>
            <Row style={{ justifyContent: "center", padding: "10px" }}>
            <Col
@@ -58,7 +58,7 @@ import teach from "../../Assets/teach.png";
            </Col>
            <Col
              md={5}
-             style={{ paddingTop: "120px", paddingBottom: "50px" }}
+             style={{ paddingTop: "70px", paddingBottom: "50px" }}
              className="about-img"
            >
              <img src={teach} alt="about" className="img-fluid" />
