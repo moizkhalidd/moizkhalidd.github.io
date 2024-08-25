@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import web from "../../Assets/Projects/web.png";
 import brick from "../../Assets/Projects/brick.png";
 import snake from "../../Assets/Projects/snake.png";
+import pacman from "../../Assets/Projects/pacman.png";
 
 
 function Projects() {
@@ -55,6 +56,17 @@ function Projects() {
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pacman}
+              alt="Moiz Khalid"
+              isBlog={false}
+              title="Pacman"
+              description="This terminal-based Pacman game, written in C++, offers a classic arcade experience with a modern twist. The player controls Pacman, navigating through a maze filled with pellets, while avoiding a single ghost that moves randomly. The ghost's unpredictable movement adds an element of suspense, making each playthrough unique. The game is designed with simple controls and ASCII graphics, providing a nostalgic yet engaging experience for fans of retro games."
+              ghLink="https://drive.google.com/drive/folders/1hZ8tWqEDbD2QUUOj0CAZp9JsIepPHJ6K?usp=drive_link"
+              //demoLink="https://plant49-ai.herokuapp.com/"
+            />
+          </Col>
 
 
                   
