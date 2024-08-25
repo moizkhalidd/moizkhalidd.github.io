@@ -2,13 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import moveIT from "../../Assets/Projects/moveIT.png";
 import web from "../../Assets/Projects/web.png";
-import MATLAB from "../../Assets/Projects/MATLAB.png";
 import brick from "../../Assets/Projects/brick.png";
 import snake from "../../Assets/Projects/snake.png";
 import openCV from "../../Assets/Projects/openCV.png";
-import Confide from "../../Assets/Projects/Confide.png"; // Add the import for the new image
+
 
 function Projects() {
   return (
