@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import moveIT from "../../Assets/Projects/moveIT.png";
-import Pantry from "../../Assets/Projects/Pantry.png";
+import web from "../../Assets/Projects/web.png";
 import MATLAB from "../../Assets/Projects/MATLAB.png";
 import UAV from "../../Assets/Projects/UAV.jpg";
 import ROS22 from "../../Assets/Projects/ROS22.png";
@@ -48,7 +48,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-             imgPath={Pantry}
+             imgPath={web}
              alt="Moiz Khalid"
              isBlog={false}
              title="Web Page Design"
