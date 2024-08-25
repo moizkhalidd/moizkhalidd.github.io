@@ -25,10 +25,10 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={UAV}
-              alt="Saad Ahmed Rana"
+              alt="Moiz Khalid"
               isBlog={false}
-              title="Autnomous UAV"
-              description="International Bronze and TL 15,000 winning fully autonomous Unmanned Aerial Vehicle (UAV) for smart agriculture. The UAV prototype was rigorously tested in the international competition TeknoFest 22', the finals of which were held in Turkey."
+              title="Retro Brick Breaker Game"
+              description="Designed a retro-style Brick Breaker game using C++ and object-oriented programming principles. I employed classes and objects to build core gameplay mechanics, including paddle movement, ball dynamics, collision detection, and scoring systems. The game features a classic design with retro-style graphics and animations, managed through the GLUT library. This project not only showcased my proficiency in OOP but also demonstrated my ability to create engaging and visually appealing games. The successful completion of this project earned top marks, highlighting my effective application of technical skills and creative design in game development."
               ghLink="https://drive.google.com/drive/folders/1VZXFBoCv0CTOtGqNg7xz5MxMSMxJoqE4?usp=drive_link"
               //demoLink="https://chatify-49.web.app/"
             />
@@ -37,10 +37,10 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
              imgPath={ROS22}
-             alt="Saad Ahmed Rana"
+             alt="Moiz Khalid"
              isBlog={false}
-             title="Voice activated Robot"
-             description="This project features a voice-controlled robot that uses ROS2 and the Alexa Skills Kit (ASK) SDK. The project aims at domesticating robots by making them easier to navigate and control. "
+             title="Retro Snake Game"
+             description="Implemented a retro-style Snake game using C++ and the GLUT library for graphics. I developed core gameplay mechanics such as snake movement, collision detection, and scoring, while also creating a user-friendly interface with intuitive controls. I utilized GLUT to manage retro-style graphics and animaMons, enhancing the game's nostalgic feel. The project was awarded the highest marks in the class, reflecting my successful integration of technical and creative elements. "
              ghLink="https://drive.google.com/drive/folders/1slVHcb_GYZP8J9f-uVvBsdKfZLr8xg6w?usp=drive_link"   
               //demoLink="https://blogs.soumya-jit.tech/"
             />
@@ -49,15 +49,15 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
              imgPath={Pantry}
-             alt="Saad Ahmed Rana"
+             alt="Moiz Khalid"
              isBlog={false}
-             title="Inventory Management System"
-             description="Pantry Tracker is an intuitive inventory management system built with ReactJS and deployed on Vercel. This app leverages Firebase for backend data storage, enabling users to effortlessly add, track, and adjust pantry items."
+             title="Web Page Design"
+             description="Designed dynamic and responsive web page for an online courses platform using HTML, CSS, and JavaScript. The webpage features a sleek, modern design with interactive elements, including course listings, search functionality, and user-friendly navigation. This project highlights my skills in front-end development by emphasizing an engaging user experience through well structured layouts and responsive design techniques, effectively showcasing my proficiency in modern web development practices."
              ghLink="https://pantry-tracker-saad-c2lurmru2-saad-ahmed-ranas-projects.vercel.app"
              demoLink="https://pantry-tracker-saad-c2lurmru2-saad-ahmed-ranas-projects.vercel.app/"              
             />
           </Col>
-
+/*
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={MATLAB}
@@ -93,8 +93,10 @@ function Projects() {
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
-        </Row>
-
+  */ 
+        </Row>  
+        
+/*
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
@@ -108,6 +110,7 @@ function Projects() {
             />
           </Col>
         </Row>
+     */   
       </Container>
     </Container>
   );
