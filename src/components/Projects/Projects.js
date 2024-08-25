@@ -5,7 +5,6 @@ import Particle from "../Particle";
 import web from "../../Assets/Projects/web.png";
 import brick from "../../Assets/Projects/brick.png";
 import snake from "../../Assets/Projects/snake.png";
-import openCV from "../../Assets/Projects/openCV.png";
 
 
 function Projects() {
