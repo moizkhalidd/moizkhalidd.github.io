@@ -5,8 +5,8 @@ import Particle from "../Particle";
 import moveIT from "../../Assets/Projects/moveIT.png";
 import web from "../../Assets/Projects/web.png";
 import MATLAB from "../../Assets/Projects/MATLAB.png";
-import UAV from "../../Assets/Projects/UAV.jpg";
-import ROS22 from "../../Assets/Projects/ROS22.png";
+import brick from "../../Assets/Projects/brick.jpg";
+import snake from "../../Assets/Projects/snake.png";
 import openCV from "../../Assets/Projects/openCV.png";
 import Confide from "../../Assets/Projects/Confide.png"; // Add the import for the new image
 
@@ -24,7 +24,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={UAV}
+              imgPath={brick}
               alt="Moiz Khalid"
               isBlog={false}
               title="Retro Brick Breaker Game"
@@ -36,7 +36,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-             imgPath={ROS22}
+             imgPath={snake}
              alt="Moiz Khalid"
              isBlog={false}
              title="Retro Snake Game"
