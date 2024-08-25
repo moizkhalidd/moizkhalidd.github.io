@@ -36,3 +36,22 @@
             />
           </Col>
 
+
+
+        
+
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Confide} // Add the image for the new project
+              alt="Saad Ahmed Rana"
+              isBlog={false}
+              title="Confide"
+              description="Confide is a chatbot that simulates a friend, providing support during both good and challenging times. Built with Python and the `cleverbotfreeapi`, it features a user-friendly interface using HTML, CSS, and JavaScript."
+              ghLink="https://github.com/saadahmedrana/confide" // Add the GitHub link
+              // demoLink="https://example.com" // Add a demo link if available
+            />
+          </Col>
+        </Row>
+     
+
