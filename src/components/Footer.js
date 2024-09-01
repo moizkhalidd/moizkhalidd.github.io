@@ -37,7 +37,7 @@ console.log(today); // Outputs today's date in YYYY-MM-DD format
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/saadahmedrana"
+                href="https://github.com/moizkhalidd"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -57,7 +57,7 @@ console.log(today); // Outputs today's date in YYYY-MM-DD format
             </li> */}
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/saadahmedrana/"
+                href="https://www.linkedin.com/in/moiz-khalid-84b82527a/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
