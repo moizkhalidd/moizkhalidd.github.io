@@ -14,7 +14,6 @@ function ResumeNew() {
   useEffect(() => {
     setWidth(window.innerWidth);
   }, []);
-
   return (
     <div>
       <Container fluid className="resume-section">
