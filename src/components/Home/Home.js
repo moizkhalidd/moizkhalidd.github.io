@@ -5,7 +5,7 @@ import Home2 from "./Home2";
 import Type from "./Type";
 import moiz from "../../Assets/Projects/moiz.jpg"; // Import the image
 
-function Home() {
+function Home() { 
   return (
     <section>
       <Container fluid className="home-section" id="home">
