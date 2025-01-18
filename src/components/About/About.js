@@ -11,6 +11,8 @@ import wwf from "../../Assets/wwf.png";
 import stan from "../../Assets/stanford.png";
 import penn from "../../Assets/penn.png";
 import usefp from "../../Assets/usefp.png";
+import uni from "../../Assets/Uni.png";
+
 
  function About() {
    return (
@@ -51,6 +53,43 @@ import usefp from "../../Assets/usefp.png";
                paddingBottom: "50px",
              }}
            >
+
+
+            
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Lab Demonstrator for OOP Lab
+             </h1>
+             <p style={{ textAlign: "justify" }}>
+              As a Lab Demonstrator for the Object-Oriented Programming (OOP) Lab, I collaborated with the instructor to assist students in mastering key OOP concepts.
+              <br />
+              My role involved providing hands-on support during lab sessions, helping students troubleshoot coding issues, and ensuring they effectively apply object-oriented principles. 
+              <br />
+              Selected from the youngest batch to be given this opportunity, I was committed to enhancing the learning experience by addressing individual queries and fostering a deeper understanding of the subject. 
+             </p>  
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "30px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={uni} alt="about" className="img-fluid" />
+           </Col>
+         </Row>
+
+
+             <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >
+ 
+
+            
+            
              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Teach For Pakistan
              </h1>
