@@ -9,7 +9,7 @@ import { ImPointRight } from "react-icons/im";
          <blockquote className="blockquote mb-0">
            <p style={{ textAlign: "justify" }}>
              Hi Everyone, I am <span className="purple">Muhammad Moiz Khalid </span>
-             from <span className="purple"> Islamabad, Pakistan.</span>
+             from <span className="purple"> Islamabad, Pakistan.</span> 
              <br />
              I am currently pursuing a <span className="purple"> Bachelor of Science (BS) in Data Science </span> at the <span className="purple"> National University of Computer and Emerging Sciences (NUCES - FAST) </span> in Islamabad, Pakistan, with an expected graduation date in May 2027.
              <br />
