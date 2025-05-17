@@ -54,7 +54,6 @@ import uni from "../../Assets/Uni.png";
              }}
            >
 
-
             
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Lab Demonstrator for OOP Lab
