@@ -19,7 +19,7 @@ import { ImPointRight } from "react-icons/im";
              <br />
              <br />
              Apart from coding, some other activities that I love to do!
-           </p>
+           </p> 
            <ul>
              <li className="about-activity">
                <ImPointRight /> Playing Games
