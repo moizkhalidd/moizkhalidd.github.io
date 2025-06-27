@@ -26,6 +26,7 @@ function Home() {
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
+                <div style={{ maxWidth: "400px", wordWrap: "break-word", lineHeight: "1.6" }}>
                 <Type />
               </div>
             </Col>
