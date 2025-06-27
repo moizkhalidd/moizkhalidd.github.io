@@ -27,7 +27,6 @@ function Home() {
 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
-                  <br>
               </div>
             </Col>
 
