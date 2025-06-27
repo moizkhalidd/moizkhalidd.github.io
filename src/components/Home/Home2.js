@@ -20,13 +20,13 @@ function Home2() {
               MY <span className="purple"> INTRODUCTION </span> 
             </h1>
             <p className="home-about-body">
-               I'm a second-year undegraduate student at FAST NUCES Islamabad studying Data Science. <br /><br />
+               I'm a third-year undegraduate student at FAST NUCES Islamabad studying Data Science. <br /><br />
                I'm passionate to pursue my career in Machine Learning, AI & software development and am always eager to hear about new opportunities in these domains. <br /><br /> 
                Feel free to reach me at mmoizkhalidd@gmail.com. 
               <br /><br />
               <br />Languages I code in:
               <i>
-                <b className="purple"> Python | C++ | HTML | JS | CSS | VB </b>
+                <b className="purple"> Python | C++ | HTML | JS | CSS | VB | MySQL | C# | MASM x86 Assembly</b>
               </i>
               <br />
               <br />
