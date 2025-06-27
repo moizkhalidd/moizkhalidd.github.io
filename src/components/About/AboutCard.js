@@ -12,7 +12,7 @@ import { BsDot } from "react-icons/bs";
              from <span className="purple">Islamabad, Pakistan.</span>  
              <br />
              I am currently pursuing a <span className="purple">Bachelor of Science (BS) in Data Science</span> at the  
-             <span className="purple">National University of Computer and Emerging Sciences (NUCES - FAST)</span> in Islamabad, Pakistan, with an expected graduation in May 2027.  
+             <span className="purple"> National University of Computer and Emerging Sciences (NUCES - FAST)</span> in Islamabad, Pakistan, with an expected graduation in May 2027.  
              <br />
              I have achieved a <span className="purple">Cumulative GPA of 3.84/4.0</span>. In recognition of my academic excellence, I was awarded a <span className="purple">Gold Medal</span> in my third semester and a <span className="purple">Silver Medal</span> in my first semester for achieving the top result in my entire batch.  
              <br />
