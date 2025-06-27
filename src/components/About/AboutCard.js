@@ -8,27 +8,28 @@ import { ImPointRight } from "react-icons/im";
        <Card.Body>
          <blockquote className="blockquote mb-0">
            <p style={{ textAlign: "justify" }}>
-             Hi Everyone, I am <span className="purple">Muhammad Moiz Khalid </span>
-             from <span className="purple"> Islamabad, Pakistan.</span> 
+             Hi Everyone, I am <span className="purple">Muhammad Moiz Khalid</span>  
+             from <span className="purple">Islamabad, Pakistan.</span>  
              <br />
-             I am currently pursuing a <span className="purple"> Bachelor of Science (BS) in Data Science </span> at the <span className="purple"> National University of Computer and Emerging Sciences (NUCES - FAST) </span> in Islamabad, Pakistan, with an expected graduation date in May 2027.
+             I am currently pursuing a <span className="purple">Bachelor of Science (BS) in Data Science</span> at the  
+             <span className="purple">National University of Computer and Emerging Sciences (NUCES - FAST)</span> in Islamabad, Pakistan, with an expected graduation in May 2027.  
              <br />
-              I have achieved a Cumulative GPA of 3.80/4.0. In recognition of my academic excellence, I was awarded a Gold Medal in my third and Silver Medal in my first semester for achieving the top result in my entire batch.
+             I have achieved a <span className="purple">Cumulative GPA of 3.84/4.0</span>. In recognition of my academic excellence, I was awarded a <span className="purple">Gold Medal</span> in my third semester and a <span className="purple">Silver Medal</span> in my first semester for achieving the top result in my entire batch.  
              <br />
-              Additionally, I have been named to the Dean's List for Fall 2023, Spring 2024 and Fall 2024.
+             Additionally, I have been named to the <span className="purple">Dean's List</span> for <span className="purple">Fall 2023, Spring 2024, Fall 2024, and Spring 2025</span>.  
              <br />
              <br />
              Apart from coding, some other activities that I love to do!
            </p> 
            <ul>
              <li className="about-activity">
-               <ImPointRight /> Playing Games
+               <BsDot /> Hiking
              </li>
              <li className="about-activity">
-               <ImPointRight /> Sports
+               <BsDot /> Sports
              </li>
              <li className="about-activity">
-               <ImPointRight /> Travelling
+               <BsDot /> Travelling
              </li>
            </ul>
 
