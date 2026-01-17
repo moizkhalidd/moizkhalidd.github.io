@@ -18,7 +18,7 @@ import { BsDot } from "react-icons/bs";
              <br />
              I have achieved a <span className="purple">Cumulative GPA of 3.82/4.0</span>. In recognition of my academic excellence, I was awarded <span className="purple">Gold Medal</span> in my third & fourth semesters and a <span className="purple">Silver Medal</span> in my first semester for achieving the top result in my entire batch.  
              <br />
-             Additionally, I have been named to the <span className="purple">Dean's List</span> for <span className="purple">Fall 2023, Spring 2024, Fall 2024, Spring 2025 and Fall'25</span>.  
+             Additionally, I have been named to the <span className="purple">Dean's List</span> for <span className="purple">Fall 2023, Spring 2024, Fall 2024, Spring 2025 and Fall 25</span>.  
              <br />
              <br />
              Apart from coding, some other activities that I love to do!
