@@ -8,13 +8,15 @@ import { BsDot } from "react-icons/bs";
        <Card.Body>
          <blockquote className="blockquote mb-0">
            <p style={{ textAlign: "justify" }}>
-             Hi Everyone, I am <span className="purple">Muhammad Moiz Khalid</span>  
+             Hi Everyone, I am <span className="purple">Muhammad Moiz Khalid </span>  
              from <span className="purple">Islamabad, Pakistan.</span>  
+             <br />
              <br />
              I am currently pursuing a <span className="purple">Bachelor of Science (BS) in Data Science</span> at the  
              <span className="purple"> National University of Computer and Emerging Sciences (NUCES - FAST)</span> in Islamabad, Pakistan, with an expected graduation in May 2027.  
              <br />
-             I have achieved a <span className="purple">Cumulative GPA of 3.82/4.0</span>. In recognition of my academic excellence, I was awarded a <span className="purple">Gold Medal</span> in my third semester and a <span className="purple">Silver Medal</span> in my first semester for achieving the top result in my entire batch.  
+             <br />
+             I have achieved a <span className="purple">Cumulative GPA of 3.82/4.0</span>. In recognition of my academic excellence, I was awarded <span className="purple">Gold Medal</span> in my third & fourth semesters and a <span className="purple">Silver Medal</span> in my first semester for achieving the top result in my entire batch.  
              <br />
              Additionally, I have been named to the <span className="purple">Dean's List</span> for <span className="purple">Fall 2023, Spring 2024, Fall 2024, Spring 2025 and Fall'25</span>.  
              <br />
