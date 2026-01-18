@@ -89,14 +89,14 @@ import turing from "../../Assets/turing.png";
              }}
            >            
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Lab Demonstrator for OOP Lab
+              Teaching Assistant / Lab Demonstrator
              </h1>
+             <h1 style={{ fontSize: "1.1em", paddingBottom: "20px" }}>
+              Courses: OOP Lab (Fall ’24), PF Lab (Spring ’25), IDS Lab (Fall ’25), PF Theory (Fall ’25)
+             </h1>
+              
              <p style={{ textAlign: "justify" }}>
-              As a Lab Demonstrator for the Object-Oriented Programming (OOP) Lab, I collaborated with the instructor to assist students in mastering key OOP concepts.
-              <br />
-              My role involved providing hands-on support during lab sessions, helping students troubleshoot coding issues, and ensuring they effectively apply object-oriented principles. 
-              <br />
-              Selected from the youngest batch to be given this opportunity, I was committed to enhancing the learning experience by addressing individual queries and fostering a deeper understanding of the subject. 
+             As a Programming Fundamentals TA, I supported students in understanding core programming concepts, created and graded quizzes and assignments, supervised semester projects, and provided guidance throughout the course. In lab sessions, I guided 60+ undergraduates through hands-on exercises, delivered demonstrations, assisted with debugging, and co-designed lab activities in C++, Python, and object-oriented programming. 
              </p>  
            </Col>
            <Col
