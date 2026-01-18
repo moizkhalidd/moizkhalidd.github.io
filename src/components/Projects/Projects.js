@@ -6,6 +6,7 @@ import web from "../../Assets/Projects/web.png";
 import brick from "../../Assets/Projects/brick.png";
 import snake from "../../Assets/Projects/snake.png";
 import pacman from "../../Assets/Projects/pacman.png";
+import london from "../../Assets/Projects/london.png";
 
 
 function Projects() {
@@ -20,7 +21,21 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          
+             <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={london}
+              alt="Moiz Khalid"
+              isBlog={false}
+              title="Case Study: Energy Consumption in London"
+              description="Predicted energy consumption patterns from the Smart Meters in London dataset using demographic, weather, and temporal factors. Processed 3.5 million observations into 15,000 key records and tested multiple models, including Linear Regression, Penalized Regression, Decision Tree, Random Forest, and Gradient Boosting Regressor. Tree-based models, particularly Random Forest and Gradient Boosting, achieved the best performance. Key challenges included data preprocessing, feature engineering, and handling ACORN classifications, which were critical to improving predictive accuracy."
+              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              //demoLink="https://chatify-49.web.app/"
+            />
+          </Col>
+            
+            
+            <Col md={4} className="project-card">
             <ProjectCard
               imgPath={brick}
               alt="Moiz Khalid"
