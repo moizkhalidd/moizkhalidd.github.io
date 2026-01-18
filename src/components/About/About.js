@@ -126,9 +126,7 @@ import turing from "../../Assets/turing.png";
               Teach For Pakistan
              </h1>
              <p style={{ textAlign: "justify" }}>
-              During this internship at Teach for Pakistan (national chapter of "Teach for All"), I learned in detail from successful leaders in Pakistan about running proper and influential campaigns. 
-              <br />
-              As the leader of my group I was able to collect funds for more than 1500 underprivileged students in Pakistan.
+              During my internship at Teach for Pakistan, the national chapter of Teach for All, I learned from successful leaders about running impactful campaigns and initiatives. As the leader of my group, I successfully organized fundraising efforts that benefited over 1,500 underprivileged students across Pakistan.
              </p>  
            </Col>
            <Col
@@ -154,11 +152,7 @@ import turing from "../../Assets/turing.png";
               WWF
              </h1>
              <p style={{ textAlign: "justify" }}>
-              As an Eco-Intern working with WWF, I ran campaigns spreading awareness on endangered species and effects of excessive plastic deposits on earth. 
-              <br /> 
-              Through a plastic collection drive I managed to collect more than 10 kilograms of plastic waste.
-              <br />
-              During this internship I also learned graphic designing as I designed posters and flyers to promote our campaign on social media.
+              As an Eco-Intern at WWF, I ran awareness campaigns on endangered species and the impact of excessive plastic waste on the environment. I organized a plastic collection drive, successfully collecting over 10 kilograms of plastic waste. During the internship, I also learned graphic design, creating posters and flyers to promote campaigns on social media.
              </p>  
            </Col>
            <Col
