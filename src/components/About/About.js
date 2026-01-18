@@ -60,7 +60,7 @@ import pk from "../../Assets/pk.png";
              Undergraduate Researcher
              </h1>
              <p style={{ textAlign: "justify" }}>
-             I’m currently working as a Research Assistant in Computer Vision and Deep Learning under the guidance of a university professor. My current work focuses on using Convolutional Neural Networks (CNNs) to apply deep learning models and contribute to the writing of research papers aimed at solving real-world challenges in AI. I’m honored to be one of only five students selected for this opportunity, based on achieving the highest grade in my batch in a course taught by the same professor.
+             I’m currently working as an undergraduate researcher in Computer Vision and Deep Learning under the guidance of a university professor. My current work focuses on using Convolutional Neural Networks (CNNs) to apply deep learning models and contribute to the writing of research papers aimed at solving real-world challenges in AI. I’m honored to be one of only five students selected for this opportunity, based on achieving the highest grade in my batch in a course taught by the same professor.
              </p>  
            </Col>
            <Col
