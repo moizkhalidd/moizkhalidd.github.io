@@ -7,6 +7,10 @@ import brick from "../../Assets/Projects/brick.png";
 import snake from "../../Assets/Projects/snake.png";
 import pacman from "../../Assets/Projects/pacman.png";
 import london from "../../Assets/Projects/london.png";
+import analyzer from "../../Assets/Projects/analyzer.png";
+import d3 from "../../Assets/Projects/d3.png";
+import hybrid from "../../Assets/Projects/hybrid.png";
+import nascon from "../../Assets/Projects/nascon.png";
 
 
 function Projects() {
@@ -21,7 +25,20 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          
+
+
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={hybrid}
+              alt="Moiz Khalid"
+              isBlog={false}
+              title="Near-Real-Time Data Warehouse for Walmart using HYBRIDJOIN"
+              description="Designed and implemented a near-real-time data warehouse prototype for Walmart to efficiently integrate and process customer, product, and transactional datasets. Applied a star schema for multidimensional sales analysis and implemented the HYBRIDJOIN algorithm in Python to join streaming transactional data with master datasets. The project involved handling large-scale disk-based data and continuous streams, providing hands-on experience in stream processing, ETL workflows, and real-world retail data warehousing."
+              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              //demoLink="https://chatify-49.web.app/"
+            />
+          </Col>
+      
              <Col md={4} className="project-card">
             <ProjectCard
               imgPath={london}
@@ -33,7 +50,19 @@ function Projects() {
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
-            
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={nascon}
+              alt="Moiz Khalid"
+              isBlog={false}
+              title="NASCON Database Management System"
+              description="Designed and implemented a comprehensive Database Management System for NASCON to automate large-scale event operations. Built using MySQL (backend) and C# (frontend), the system includes role-based access control, event scheduling with conflict prevention, sponsorship and accommodation management, payments, and automated result evaluation. The database architecture leveraged ERD modeling, advanced SQL features (joins, views, stored procedures, triggers, privileges), ensuring data integrity, scalability, and secure access. The project received the highest marks for its technical quality and real-world applicability."
+              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              //demoLink="https://chatify-49.web.app/"
+            />
+          </Col>
+                
             
             <Col md={4} className="project-card">
             <ProjectCard
@@ -58,6 +87,32 @@ function Projects() {
               //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={analyzer}
+              alt="Moiz Khalid"
+              isBlog={false}
+              title="Intelligent CV Analyzer using String Matching Algorithms"
+              description="Designed and developed a web-based CV Analyzer using Python and Streamlit to automate skill extraction and evaluate candidate-job fit. The system securely stores CVs and allows users to input job description keywords to assess profiles efficiently. It applies Brute Force, Rabin–Karp, and Knuth–Morris–Pratt (KMP) string matching algorithms to detect relevant skills, calculate relevance scores, highlight missing skills, and generate a ranked list of candidates. This project showcases the practical application of classical algorithms to streamline recruitment and support data-driven hiring decisions."
+              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              //demoLink="https://chatify-49.web.app/"
+            />
+          </Col>
+
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={d3}
+              alt="Moiz Khalid"
+              isBlog={false}
+              title="Interactive Global Dashboards with D3.js"
+              description="Developed two advanced interactive dashboards using D3.js, HTML, and CSS to visualize real-world datasets. The first dashboard analyzed global power plants with a zoomable world map, force-directed bubble charts filtered by fuel type, and a brushable timeline for dynamic updates. The second dashboard explored two centuries of global wealth and health trends using the Gapminder dataset, featuring a motion chart synchronized with a choropleth map, a sunburst hierarchy for drilling down into regions, and interactive highlighting for intuitive data exploration."
+              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              //demoLink="https://chatify-49.web.app/"
+            />
+          </Col>     
+                
 
           <Col md={4} className="project-card">
             <ProjectCard
