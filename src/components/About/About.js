@@ -12,8 +12,7 @@ import stan from "../../Assets/stanford.png";
 import penn from "../../Assets/penn.png";
 import usefp from "../../Assets/usefp.png";
 import uni from "../../Assets/Uni.png";
-
-
+import turing from "../../Assets/turing.png";
 
  function About() {
    return (
@@ -45,6 +44,41 @@ import uni from "../../Assets/Uni.png";
          <h1 className="project-heading">
            <strong className="purple">Experiences </strong>
          </h1>
+
+
+          <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >            
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+              Data Annotator at Turing
+             </h1>
+             <p style={{ textAlign: "justify" }}>
+              I worked as a Data Annotator at Turing, where I contributed to the development of Claude, an agentic AI assistant by Anthropic designed for real-world, browser-based interactions.
+              <br />
+              My day-to-day work involved using internal tools to create and refine high-quality training data that improved the model’s reasoning, information synthesis, and task execution capabilities. I focused on summarizing long-form content, organizing information into clear and logical sections, fact-checking with trusted sources, and handling reasoning-driven prompts.
+              <br />
+              Once the data was generated, I carefully reviewed it to ensure it aligned with strict content and quality standards. 
+             </p>  
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "30px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={turing} alt="about" className="img-fluid" />
+           </Col>
+         </Row>     
+
+
+
+              
+              
            <Row style={{ justifyContent: "center", padding: "10px" }}>
            <Col
              md={7}
@@ -53,9 +87,7 @@ import uni from "../../Assets/Uni.png";
                paddingTop: "30px",
                paddingBottom: "50px",
              }}
-           >
-
-            
+           >            
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Lab Demonstrator for OOP Lab
              </h1>
