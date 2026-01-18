@@ -181,9 +181,7 @@ import turing from "../../Assets/turing.png";
               Machine Learning Specialization
              </h1>
              <p style={{ textAlign: "justify" }}>
-              Completed a specialization course on Coursera by Stanford University and Deep Learning AI where I learned in detail about supervised and unsupervised machine learning.
-              <br />
-              The course's main focus was on regression and classification models.
+              Completed a specialization course by Stanford University and DeepLearning.AI, gaining in-depth knowledge of supervised and unsupervised machine learning. The course focused primarily on regression and classification models, covering both theory and practical implementation.
              </p>  
            </Col>
            <Col
@@ -233,10 +231,8 @@ import turing from "../../Assets/turing.png";
               Competitive College Club (CCC) at United States Educational Foundation in Pakistan (USEFP)
              </h1>
              <p style={{ textAlign: "justify" }}>
-              Selected from all over Pakistan for CCC by USEFP. Participated in volunteering activities and team building workshops. 
-            <br />
-              CCC is an intensive cohort-advising, highly selective and exclusive program for school students who are in the top 10% of their class in addition to having strong extracurriculars.
-              </p>
+             Selected from across Pakistan for the highly competitive CCC program by USEFP, designed for high school students in the top 10% of their class with strong extracurricular achievements. During the program, I engaged in volunteering and team-building activities while participating in intensive cohort advising sessions.
+             </p>
            </Col>
            <Col
              md={5}
