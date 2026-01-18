@@ -205,7 +205,7 @@ import pk from "../../Assets/pk.png";
              }}
            >
              <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              WWF
+              Pehli Kiran Schools
              </h1>
              <p style={{ textAlign: "justify" }}>
              Passionate about bridging the education gap, I volunteered with Pehli Kiran Schools, an NGO dedicated to providing quality education to underprivileged children. In support of the UN Sustainable Development Goal for education, I engaged in learning initiatives and built meaningful connections with students to positively impact their academic journey.
