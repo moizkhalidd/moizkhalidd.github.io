@@ -34,7 +34,7 @@ function Projects() {
               isBlog={false}
               title="Near-Real-Time Data Warehouse for Walmart using HYBRIDJOIN"
               description="Designed and implemented a near-real-time data warehouse prototype for Walmart to efficiently integrate and process customer, product, and transactional datasets. Applied a star schema for multidimensional sales analysis and implemented the HYBRIDJOIN algorithm in Python to join streaming transactional data with master datasets. The project involved handling large-scale disk-based data and continuous streams, providing hands-on experience in stream processing, ETL workflows, and real-world retail data warehousing."
-              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              ghLink="https://drive.google.com/drive/folders/1x2V1Nqo7dPyuMSUFxaYNlNhc-IMKXax6?usp=sharing"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -46,7 +46,7 @@ function Projects() {
               isBlog={false}
               title="Case Study: Energy Consumption in London"
               description="Predicted energy consumption patterns from the Smart Meters in London dataset using demographic, weather, and temporal factors. Processed 3.5 million observations into 15,000 key records and tested multiple models, including Linear Regression, Penalized Regression, Decision Tree, Random Forest, and Gradient Boosting Regressor. Tree-based models, particularly Random Forest and Gradient Boosting, achieved the best performance. Key challenges included data preprocessing, feature engineering, and handling ACORN classifications, which were critical to improving predictive accuracy."
-              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              ghLink="https://drive.google.com/drive/folders/1opfePwE9lMoLoqQG6invK9tnduatTLCP?usp=sharing"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -58,7 +58,7 @@ function Projects() {
               isBlog={false}
               title="NASCON Database Management System"
               description="Designed and implemented a comprehensive Database Management System for NASCON to automate large-scale event operations. Built using MySQL (backend) and C# (frontend), the system includes role-based access control, event scheduling with conflict prevention, sponsorship and accommodation management, payments, and automated result evaluation. The database architecture leveraged ERD modeling, advanced SQL features (joins, views, stored procedures, triggers, privileges), ensuring data integrity, scalability, and secure access. The project received the highest marks for its technical quality and real-world applicability."
-              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              ghLink="https://drive.google.com/drive/folders/1zuFZLOHkyisIkJ_o5vwphxhLCU6MUdBs?usp=sharing"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -95,7 +95,7 @@ function Projects() {
               isBlog={false}
               title="Intelligent CV Analyzer using String Matching Algorithms"
               description="Designed and developed a web-based CV Analyzer using Python and Streamlit to automate skill extraction and evaluate candidate-job fit. The system securely stores CVs and allows users to input job description keywords to assess profiles efficiently. It applies Brute Force, Rabin–Karp, and Knuth–Morris–Pratt (KMP) string matching algorithms to detect relevant skills, calculate relevance scores, highlight missing skills, and generate a ranked list of candidates. This project showcases the practical application of classical algorithms to streamline recruitment and support data-driven hiring decisions."
-              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              ghLink="https://drive.google.com/drive/folders/1nQoTgCEhB2ysOhMcyUw0KHmftIWSD8tu?usp=sharing"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -108,7 +108,7 @@ function Projects() {
               isBlog={false}
               title="Interactive Global Dashboards with D3.js"
               description="Developed two advanced interactive dashboards using D3.js, HTML, and CSS to visualize real-world datasets. The first dashboard analyzed global power plants with a zoomable world map, force-directed bubble charts filtered by fuel type, and a brushable timeline for dynamic updates. The second dashboard explored two centuries of global wealth and health trends using the Gapminder dataset, featuring a motion chart synchronized with a choropleth map, a sunburst hierarchy for drilling down into regions, and interactive highlighting for intuitive data exploration."
-              ghLink="https://drive.google.com/drive/folders/1cvkQ-PuuLiYSOXnb9Tto2sdw7ZuoJYUx?usp=sharing"
+              ghLink="https://drive.google.com/drive/folders/1gCTncfTYmlR4IDOR7Tcyhkr131B4V3OP?usp=sharing"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>     
