@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1955853b.css",
-    "main.js": "/static/js/main.5bbea453.js",
+    "main.js": "/static/js/main.d1a08577.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/moiz.jpg": "/static/media/moiz.34b64b50862f7847512e.jpg",
@@ -9,7 +9,7 @@
     "static/media/nascon.png": "/static/media/nascon.1d7e3b917288dc56195d.png",
     "static/media/d3.png": "/static/media/d3.e3a1a4da6b04ef7c4e38.png",
     "static/media/london.png": "/static/media/london.154acec8ccbdc1c4a3b4.png",
-    "static/media/moizCV.pdf": "/static/media/moizCV.d466a289a3965fc5d539.pdf",
+    "static/media/moizCV.pdf": "/static/media/moizCV.4ff76f6850b551929140.pdf",
     "static/media/analyzer.png": "/static/media/analyzer.ea4869d1019279d95e25.png",
     "static/media/logo3.png": "/static/media/logo3.3efc934000013cb2f9b2.png",
     "static/media/Uni.png": "/static/media/Uni.4c0caf42be465aaa75cb.png",
@@ -30,12 +30,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.1955853b.css.map": "/static/css/main.1955853b.css.map",
-    "main.5bbea453.js.map": "/static/js/main.5bbea453.js.map",
+    "main.d1a08577.js.map": "/static/js/main.d1a08577.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1955853b.css",
-    "static/js/main.5bbea453.js"
+    "static/js/main.d1a08577.js"
   ]
 }
