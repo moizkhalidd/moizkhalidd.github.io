@@ -243,6 +243,7 @@ button:focus {
   }
 }
 #tsparticles {
+  pointer-events: none;
   position: fixed !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
