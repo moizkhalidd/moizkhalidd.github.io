@@ -64,16 +64,6 @@ import zayed from "../../Assets/zayed.png";
             <span className="purple">Published in IEEE Xplore</span>
             <br />
           </p>
-          <div style={{ position: "relative", zIndex: 9999 }}>
-           <Button
-             variant="primary"
-             href="https://ieeexplore.ieee.org/document/11576503"
-             target="_blank"
-             style={{ position: "relative", zIndex: 9999 }}
-           >
-             Publication Link
-           </Button>
-         </div>
         </div>
         
         <div style={{ marginBottom: "30px" }}>
