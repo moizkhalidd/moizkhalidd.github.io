@@ -8,6 +8,7 @@ function Type() {
         strings: [
           "Bachelors of Data Science @ FAST",
           "Active Researcher",
+          "Gold, Silver & Bronze Medalist",
           "Dean's list - All Semesters",
           "Football Enthusiast",
         ],
