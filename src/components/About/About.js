@@ -47,6 +47,79 @@ import zayed from "../../Assets/zayed.png";
         <h1 className="project-heading">
            <strong className="purple">Publications </strong>
          </h1>
+
+
+          <div style={{ marginBottom: "30px" }}>
+          <h3>
+            AZNet: An Efficient Convolutional Neural Network for Alzheimer's Disease Classification
+          </h3>
+        
+          <p>
+            <strong>Authors:</strong> M. M. Khalid, M. S. Abbas, A. Muhammad
+            <br />
+            <strong>Conference:</strong> IEEE ICISCT 2026 • Karachi, Pakistan
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Published in IEEE Xplore</span>
+            <br />
+            <a
+              href="https://doi.org/10.1109/ICISCT67740.2026.11576503"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              View Publication ↗
+            </a>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            EmoNet: A Lightweight Attention-Based CNN for Speech Emotion Recognition
+          </h3>
+        
+          <p>
+            <strong>Authors:</strong> M. M. Khalid, A. Rehman, M. O. Yamin
+            <br />
+            <strong>Conference:</strong> IEEE IBCAST 2026 • Murree, Pakistan
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Accepted • Publication Pending</span>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            Analysing User Reviews to Identify User Concerns Around Permissions in AI Apps
+          </h3>
+        
+          <p>
+            <strong>Authors:</strong> F. Ullah, B. Shah, M. Watkinson, M. M. Khalid
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Ongoing Research</span>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            Australian Bushfire Intelligence with AI-Driven Environmental Analytics
+          </h3>
+        
+          <p>
+            <strong>Authors:</strong> T. Jois, H. Ahmad, F. Ullah, M. M. Khalid
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Ongoing Research</span>
+          </p>
+        </div>
+
+
+
+
+
+
+
+
               
          <h1 className="project-heading">
            <strong className="purple">Experiences </strong>
