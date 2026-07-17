@@ -60,7 +60,7 @@ import zayed from "../../Assets/zayed.png";
              style={{
                justifyContent: "center",
                paddingTop: "30px",
-               paddingBottom: "50px",
+               paddingBottom: "20px",
              }}
            >            
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
@@ -72,7 +72,7 @@ import zayed from "../../Assets/zayed.png";
            </Col>
            <Col
              md={5}
-             style={{ paddingTop: "30px", paddingBottom: "50px" }}
+             style={{ paddingTop: "30px", paddingBottom: "20px" }}
              className="about-img"
            >
              <img src={zayed} alt="about" className="img-fluid" />
