@@ -62,7 +62,7 @@ import zayed from "../../Assets/zayed.png";
                paddingBottom: "20px",
              }}
            >            
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "10px" }}>
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
                Research Assistant
              </h1>
              <p style={{ textAlign: "justify" }}>
@@ -71,7 +71,7 @@ import zayed from "../../Assets/zayed.png";
            </Col>
            <Col
              md={5}
-             style={{ paddingTop: "5px", paddingBottom: "10px" }}
+             style={{ paddingTop: "30px", paddingBottom: "50px" }}
              className="about-img"
            >
              <img src={zayed} alt="about" className="img-fluid" />
@@ -153,7 +153,7 @@ import zayed from "../../Assets/zayed.png";
               Teaching Assistant / Lab Demonstrator
              </h1>
              <h1 style={{ fontSize: "1.1em", paddingBottom: "20px" }}>
-              Courses: OOP Lab (Fall ’24), PF Lab (Spring ’25), IDS Lab (Fall ’25), PF Theory (Fall ’25)
+              Courses: OOP Lab (Fall ’24), PF Lab (Spring ’25), IDS Lab (Fall ’25), PF Theory (Fall ’25), OOP Lab (Spring’26)
              </h1>
               
              <p style={{ textAlign: "justify" }}>
