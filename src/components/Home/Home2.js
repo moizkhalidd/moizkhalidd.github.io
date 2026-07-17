@@ -21,7 +21,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
                I'm a final-year undergraduate student at FAST NUCES Islamabad studying Data Science. <br /><br />
-               I'm passionate about pursuing a career in Machine Learning and AI. My recent work has focused on research in deep learning and computer vision, leading to an accepted research publication. I'm always eager to hear about new opportunities in these fields. <br /><br /> 
+               I'm passionate about pursuing a career in Machine Learning and AI. My recent work has focused on research in deep learning and computer vision, leading to accepted research publications. I'm always eager to hear about new opportunities in these fields. <br /><br /> 
                Feel free to reach me at mmoizkhalidd@gmail.com. 
               <br /><br />
               <br />Languages I code in:
