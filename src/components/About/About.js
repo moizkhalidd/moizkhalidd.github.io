@@ -14,6 +14,8 @@ import usefp from "../../Assets/usefp.png";
 import uni from "../../Assets/Uni.png";
 import turing from "../../Assets/turing.png";
 import pk from "../../Assets/pk.png";
+import zayed from "../../Assets/zayed.png";
+
 
  function About() {
    return (
@@ -42,10 +44,41 @@ import pk from "../../Assets/pk.png";
              <img src={me} alt="about" className="img-fluid" />
            </Col>
          </Row>
+
+        <h1 className="project-heading">
+           <strong className="purple">Publications </strong>
+         </h1>
+              
          <h1 className="project-heading">
            <strong className="purple">Experiences </strong>
          </h1>
 
+
+           <Row style={{ justifyContent: "center", padding: "10px" }}>
+           <Col
+             md={7}
+             style={{
+               justifyContent: "center",
+               paddingTop: "30px",
+               paddingBottom: "50px",
+             }}
+           >            
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+               Research Assistant
+             </h1>
+             <p style={{ textAlign: "justify" }}>
+              I work closely with a professor on various research topics and projects. I assist with different research-related tasks and review research papers written by graduate students, providing feedback to help improve their quality. I was selected as one of the few undergraduate students for this role, giving me the opportunity to gain hands-on experience working on graduate-level research.
+             </p>  
+           </Col>
+           <Col
+             md={5}
+             style={{ paddingTop: "30px", paddingBottom: "50px" }}
+             className="about-img"
+           >
+             <img src={zayed} alt="about" className="img-fluid" />
+           </Col>
+         </Row>     
+              
 
            <Row style={{ justifyContent: "center", padding: "10px" }}>
            <Col
