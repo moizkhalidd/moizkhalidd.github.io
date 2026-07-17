@@ -62,16 +62,18 @@ import zayed from "../../Assets/zayed.png";
             <strong>Status:</strong>{" "}
             <span className="purple">Published in IEEE Xplore</span>
             <br />
-            <button
-             onClick={() =>
-               window.open(
-                 "https://doi.org/10.1109/ICISCT67740.2026.11576503",
-                 "_blank"
-               )
-             }
+            <a
+             href="https://doi.org/10.1109/ICISCT67740.2026.11576503"
+             target="_blank"
+             rel="noopener noreferrer"
+             style={{
+               color: "#c770f0",
+               textDecoration: "underline",
+               cursor: "pointer",
+             }}
            >
              View Publication ↗
-           </button>
+           </a>
           </p>
         </div>
         
