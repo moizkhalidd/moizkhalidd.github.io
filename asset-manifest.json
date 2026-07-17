@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1955853b.css",
-    "main.js": "/static/js/main.bce6ef68.js",
+    "main.js": "/static/js/main.44bbc88e.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/moiz.jpg": "/static/media/moiz.34b64b50862f7847512e.jpg",
@@ -21,6 +21,7 @@
     "static/media/hybrid.png": "/static/media/hybrid.1652b12cc6a4680682ec.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/turing.png": "/static/media/turing.8085ce57f4d6acf7c44c.png",
+    "static/media/zayed.png": "/static/media/zayed.7e20e0e236f2a4c29a92.png",
     "static/media/teach.png": "/static/media/teach.a16bcd35d6d2c997324a.png",
     "static/media/pacman.png": "/static/media/pacman.75a198016547386b360a.png",
     "static/media/stanford.png": "/static/media/stanford.ee9f401517d159fc79bb.png",
@@ -30,12 +31,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.1955853b.css.map": "/static/css/main.1955853b.css.map",
-    "main.bce6ef68.js.map": "/static/js/main.bce6ef68.js.map",
+    "main.44bbc88e.js.map": "/static/js/main.44bbc88e.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1955853b.css",
-    "static/js/main.bce6ef68.js"
+    "static/js/main.44bbc88e.js"
   ]
 }
