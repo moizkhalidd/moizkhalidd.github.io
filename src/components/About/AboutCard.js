@@ -15,7 +15,8 @@ import { BsDot } from "react-icons/bs";
             <span className="purple"> National University of Computer and Emerging Sciences (NUCES - FAST)</span>, Islamabad, with an expected graduation in <span className="purple">May 2027</span>.
             <br />
             <br />
-            I have maintained a <span className="purple">Cumulative GPA of 3.84/4.0, with rank 1/150, </span>and have been recognized for academic excellence with <span className="purple"> 2x Gold Medals, 2x Silver Medals and 1x Bronze Medal</span> throughout my semesters for achieving top results in my batch.
+
+            I have maintained a <span className="purple"> cumulative GPA of 3.84/4.00,  </span> ranking <span className="purple"> 1st out of 150 students </span>, and have been recognized for academic excellence with<span className="purple"> two Gold Medals  , two Silver Medals </span>, and <span className="purple"> one Bronze Medal </span> for achieving the highest academic performance in my batch across multiple semesters.             
             <br />
             <br />
             I have also been named to the <span className="purple">Dean's List</span> for <span className="purple"> all my semesters.</span>.
