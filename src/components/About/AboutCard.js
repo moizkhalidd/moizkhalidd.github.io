@@ -15,10 +15,10 @@ import { BsDot } from "react-icons/bs";
             <span className="purple"> National University of Computer and Emerging Sciences (NUCES - FAST)</span>, Islamabad, with an expected graduation in <span className="purple">May 2027</span>.
             <br />
             <br />
-            I have maintained a <span className="purple">Cumulative GPA of 3.82/4.0</span> and have been recognized for academic excellence with <span className="purple">Gold Medals</span> in my third and fourth semesters and a <span className="purple">Silver Medal</span> in my first semester for achieving top results in my batch.
+            I have maintained a <span className="purple">Cumulative GPA of 3.84/4.0, with rank 1/150, </span>and have been recognized for academic excellence with <span className="purple"> 2x Gold Medals, 2x Silver Medals and 1x Bronze Medal</span> throughout my semesters for achieving top results in my batch.
             <br />
             <br />
-            I have also been named to the <span className="purple">Dean's List</span> for <span className="purple">Fall 2023, Spring 2024, Fall 2024, Spring 2025, and Fall 2025</span>.
+            I have also been named to the <span className="purple">Dean's List</span> for <span className="purple"> all my semesters.</span>.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
