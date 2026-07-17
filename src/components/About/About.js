@@ -70,6 +70,8 @@ import zayed from "../../Assets/zayed.png";
                color: "#c770f0",
                textDecoration: "underline",
                cursor: "pointer",
+               display: "inline-block",  
+               pointerEvents: "auto",    
              }}
            >
              View Publication ↗
