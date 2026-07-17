@@ -38,7 +38,6 @@ import { BsDot } from "react-icons/bs";
            <p style={{ color: "rgb(155 126 172)" }}>
              "It's okay to look back at the past, just remember not to stare"{" "}
            </p>
-           <footer className="blockquote-footer">Moiz</footer>
          </blockquote>
        </Card.Body>
      </Card>
