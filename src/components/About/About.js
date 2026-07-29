@@ -89,7 +89,7 @@ import zayed from "../../Assets/zayed.png";
           </h3>
         
           <p>
-            <strong>Authors:</strong> F. Ullah, B. Shah, M. Watkinson,<span className="purple"> M. M. Khalid </span>,  T. K. Khan, M. Junaid
+            <strong>Authors:</strong> B. Shah, F. Ullah, M. Watkinson,<span className="purple"> M. M. Khalid </span>,  T. K. Khan, M. Junaid
             <br />
             <strong>Conference:</strong> SpringerLink CAAIE 2026 • Cardiff, UK
             <br />
