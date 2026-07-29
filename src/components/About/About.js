@@ -56,7 +56,7 @@ import zayed from "../../Assets/zayed.png";
           </h3>
         
           <p>
-            <strong>Authors:</strong> M. M. Khalid, M. S. Abbas, A. Muhammad
+            <strong>Authors:</strong> <span className="purple"> M. M. Khalid </span>, M. S. Abbas, A. Muhammad
             <br />
             <strong>Conference:</strong> IEEE ICISCT 2026 • Karachi, Pakistan
             <br />
@@ -72,7 +72,7 @@ import zayed from "../../Assets/zayed.png";
           </h3>
         
           <p>
-            <strong>Authors:</strong> M. M. Khalid, A. Rehman, M. O. Yamin
+            <strong>Authors:</strong> <span className="purple"> M. M. Khalid </span>, A. Rehman, M. O. Yamin
             <br />
             <strong>Conference:</strong> IEEE IBCAST 2026 • Murree, Pakistan
             <br />
@@ -87,10 +87,12 @@ import zayed from "../../Assets/zayed.png";
           </h3>
         
           <p>
-            <strong>Authors:</strong> F. Ullah, B. Shah, M. Watkinson, M. M. Khalid
+            <strong>Authors:</strong> F. Ullah, B. Shah, M. Watkinson,<span className="purple"> M. M. Khalid </span>,  T. K. Khan, M. Junaid
+            <br />
+            <strong>Conference:</strong> SpringerLink CAAIE 2026 • Cardiff, UK
             <br />
             <strong>Status:</strong>{" "}
-            <span className="purple">Ongoing Research</span>
+            <span className="purple">Accepted • Publication Pending</span>
           </p>
         </div>
         
@@ -100,7 +102,7 @@ import zayed from "../../Assets/zayed.png";
           </h3>
         
           <p>
-            <strong>Authors:</strong> T. Jois, H. Ahmad, F. Ullah, M. M. Khalid
+            <strong>Authors:</strong> T. Jois, H. Ahmad, F. Ullah, <span className="purple"> M. M. Khalid </span>
             <br />
             <strong>Status:</strong>{" "}
             <span className="purple">Ongoing Research</span>
