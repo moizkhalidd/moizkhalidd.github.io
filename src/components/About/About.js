@@ -17,6 +17,8 @@ import turing from "../../Assets/turing.png";
 import pk from "../../Assets/pk.png";
 import zayed from "../../Assets/zayed.png";
 
+
+
  function About() {
    return (
      <Container fluid className="about-section">
