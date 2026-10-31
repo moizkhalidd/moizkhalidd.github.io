@@ -32,19 +32,14 @@ function ResumeNew() {
         </Row>
 
        <Row className="resume">
-        <div className="d-flex flex-column align-items-center">
-          <Document
-            file={pdf}
-            className="d-flex justify-content-center"
-            style={{ marginBottom: "30px" }}
-          >
+        <Document file={pdf} className="d-flex flex-column align-items-center">
+          <div style={{ marginBottom: "30px" }}>
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
-          </Document>
-      
-          <Document file={pdf} className="d-flex justify-content-center">
+          </div>
+          <div>
             <Page pageNumber={2} scale={width > 786 ? 1.7 : 0.6} />
-          </Document>
-        </div>
+          </div>
+        </Document>
       </Row>
             
         <Row style={{ justifyContent: "center", position: "relative" }}>
