@@ -11,6 +11,7 @@ import analyzer from "../../Assets/Projects/analyzer.png";
 import d3 from "../../Assets/Projects/d3.png";
 import hybrid from "../../Assets/Projects/hybrid.png";
 import nascon from "../../Assets/Projects/nascon.png";
+import agentic from "../../Assets/Projects/agentic.png";
 
 
 function Projects() {
@@ -29,7 +30,7 @@ function Projects() {
 
             <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={hybrid}
+              imgPath={agentic}
               alt="Moiz Khalid"
               isBlog={false}
               title="Research Document Revision Tracker with Persistent Memory"
