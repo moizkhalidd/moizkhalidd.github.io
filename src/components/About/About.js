@@ -73,8 +73,20 @@ import zayed from "../../Assets/zayed.png";
             <span className="purple">Published in IEEE Xplore</span>
             <br />
             <strong>DOI:</strong>{" "}
-            <a href="https://doi.org/10.1109/ICISCT67740.2026.11576503" target="_blank">
-              10.1109/ICISCT67740.2026.11576503
+            <a
+              href="https://doi.org/10.1109/ICISCT67740.2026.11576503"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#c770f0",
+                textDecoration: "underline",
+                position: "relative",
+                zIndex: 10,
+                pointerEvents: "auto",
+                cursor: "pointer"
+              }}
+            >
+              IEEE Xplore
             </a>
           </p>
         </div>
