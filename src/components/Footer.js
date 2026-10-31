@@ -6,6 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { SiGooglescholar } from "react-icons/si";
 
 function Footer() {
   // let date = new Date();
@@ -45,16 +46,16 @@ console.log(today); // Outputs today's date in YYYY-MM-DD format
                 <AiFillGithub />
               </a>
             </li>
-            {/* <li className="social-icons">
+            {<li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href="https://scholar.google.com/citations?user=wTqpPhAAAAAJ&hl=en"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <AiOutlineTwitter />
+                <SiGooglescholar />
               </a>
-            </li> */}
+            </li>}
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/moiz-khalid-84b82527a/"
