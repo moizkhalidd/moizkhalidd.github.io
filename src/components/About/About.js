@@ -72,7 +72,7 @@ import zayed from "../../Assets/zayed.png";
             <strong>Status:</strong>{" "}
             <span className="purple">Published in IEEE Xplore</span>
             <br />
-            <strong>DOI:</strong>{" "}
+            
             <a
               href="https://doi.org/10.1109/ICISCT67740.2026.11576503"
               target="_blank"
@@ -86,7 +86,7 @@ import zayed from "../../Assets/zayed.png";
                 cursor: "pointer"
               }}
             >
-              IEEE Xplore
+              CLICK TO VIEW PAPER
             </a>
           </p>
         </div>
@@ -103,9 +103,19 @@ import zayed from "../../Assets/zayed.png";
             <strong>Status:</strong>{" "}
             <span className="purple">Accepted • In Press</span>
             <br />
-            <strong>Paper:</strong>{" "}
-            <a href="https://doi.org/10.48550/arXiv.2610.33977" target="_blank" rel="noreferrer">
-              arXiv:2610.33977
+            <a href="https://doi.org/10.48550/arXiv.2610.33977" target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#c770f0",
+                textDecoration: "underline",
+                position: "relative",
+                zIndex: 10,
+                pointerEvents: "auto",
+                cursor: "pointer"
+              }}
+            >
+              CLICK TO VIEW PAPER
+            </a>
             </a>
           </p>
         </div>
@@ -122,9 +132,19 @@ import zayed from "../../Assets/zayed.png";
             <strong>Status:</strong>{" "}
             <span className="purple">Accepted • In Press</span>
             <br />
-            <strong>Paper:</strong>{" "}
-            <a href="https://doi.org/10.48550/arXiv.2607.29343" target="_blank" rel="noreferrer">
-              arXiv:2607.29343
+            <a href="https://doi.org/10.48550/arXiv.2607.29343" target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#c770f0",
+                textDecoration: "underline",
+                position: "relative",
+                zIndex: 10,
+                pointerEvents: "auto",
+                cursor: "pointer"
+              }}
+            >
+              CLICK TO VIEW PAPER
+            </a>
             </a>
           </p>
         </div>
