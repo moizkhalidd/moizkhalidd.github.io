@@ -68,7 +68,7 @@ function Projects() {
               isBlog={false}
               title="NASCON Database Management System"
               description="Designed and implemented a comprehensive Database Management System for NASCON to automate large-scale event operations. Built using MySQL (backend) and C# (frontend), the system includes role-based access control, event scheduling with conflict prevention, sponsorship and accommodation management, payments, and automated result evaluation. The database architecture leveraged ERD modeling, advanced SQL features (joins, views, stored procedures, triggers, privileges), ensuring data integrity, scalability, and secure access. The project received the highest marks for its technical quality and real-world applicability."
-              ghLink="https://drive.google.com/drive/folders/1zuFZLOHkyisIkJ_o5vwphxhLCU6MUdBs?usp=sharing"
+              ghLink="https://github.com/moizkhalidd/NASCON-Database-Management-System"
             />
           </Col>
                 
@@ -137,7 +137,7 @@ function Projects() {
               isBlog={false}
               title="Pacman"
               description="This terminal-based Pacman game, written in C++, offers a classic arcade experience with a modern twist. The player controls Pacman, navigating through a maze filled with pellets, while avoiding a single ghost that moves randomly. The ghost's unpredictable movement adds an element of suspense, making each playthrough unique. The game is designed with simple controls and ASCII graphics, providing a nostalgic yet engaging experience for fans of retro games."
-              ghLink="https://drive.google.com/drive/folders/1Hih0EcCoPHGqnbET1rlubyWwaB5Cfo04?usp=sharing"
+              ghLink="https://github.com/moizkhalidd/PACMAN"
             />
           </Col>
 
