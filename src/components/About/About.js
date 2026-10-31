@@ -137,7 +137,7 @@ import zayed from "../../Assets/zayed.png";
                Research Assistant
              </h1>
              <p style={{ textAlign: "justify" }}>
-              I work closely with a professor on various research topics and projects. I assist with different research-related tasks and review research papers written by graduate students, providing feedback to help improve their quality. I was selected as one of the few undergraduate students for this role, giving me the opportunity to gain hands-on experience working on graduate-level research.
+              I work closely with Dr. Faheem Ullah on various research topics and projects, contributing to research activities, reviewing papers written by graduate students, and providing feedback to improve their quality. I was selected as one of the few undergraduate students for this role, giving me valuable hands-on experience with graduate-level research. My research contributions have resulted in multiple accepted publications, with additional research papers currently under review.
              </p>  
            </Col>
            <Col
@@ -163,7 +163,11 @@ import zayed from "../../Assets/zayed.png";
              Undergraduate Researcher
              </h1>
              <p style={{ textAlign: "justify" }}>
-             I’m currently working as an undergraduate researcher in Computer Vision and Deep Learning under the guidance of a university professor. My current work focuses on using Convolutional Neural Networks (CNNs) to apply deep learning models and contribute to the writing of research papers aimed at solving real-world challenges in AI. I’m honored to be one of only five students selected for this opportunity, based on achieving the highest grade in my batch in a course taught by the same professor.
+             I’m currently working as an undergraduate researcher under the guidance of a university professor, contributing to research across Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. My work involves developing and evaluating AI models to address real-world challenges, improving model efficiency, and contributing to research paper writing and publication.
+             <br />
+             I’m honored to be one of only five students selected for this opportunity, based on achieving the highest grade in my batch in a course taught by the same professor.
+             <br />
+             As first author, I have had two IEEE conference papers accepted for publication in IEEE Xplore: “AZNet: An Efficient Convolutional Neural Network for Alzheimer’s Disease Classification” and “EmoNet: A Lightweight Attention-Based CNN for Speech Emotion Recognition.”
              </p>  
            </Col>
            <Col
@@ -228,7 +232,7 @@ import zayed from "../../Assets/zayed.png";
              </h1>
               
              <p style={{ textAlign: "justify" }}>
-             As a Programming Fundamentals TA, I supported students in understanding core programming concepts, created and graded quizzes and assignments, supervised semester projects, and provided guidance throughout the course. In lab sessions, I guided 60+ undergraduates through hands-on exercises, delivered demonstrations, assisted with debugging, and co-designed lab activities in C++, Python, and object-oriented programming. 
+             As a Programming Fundamentals Teaching Assistant, I mentored 250+ students and assisted with quizzes, assignments, grading, and semester project supervision. During lab sessions, I guided 60+ undergraduates in each session, providing hands-on support, programming demonstrations, and debugging assistance in C++, Python, and object-oriented programming.
              </p>  
            </Col>
            <Col
@@ -366,7 +370,7 @@ import zayed from "../../Assets/zayed.png";
               Engineering Summer Academy at Penn (ESAP) Program
              </h1>
              <p style={{ textAlign: "justify" }}>
-              I was the only student from Pakistan to be selected for the ESAP program by UPenn in the Nanotechnology course and with that I was awarded a 97% scholarship for the whole program.
+              I was selected for the ESAP program by UPenn in the Nanotechnology course and with that I was awarded a 97% scholarship for the whole program.
              </p>  
            </Col>
            <Col
