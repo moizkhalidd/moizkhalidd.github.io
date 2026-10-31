@@ -73,7 +73,7 @@ import zayed from "../../Assets/zayed.png";
             <span className="purple">Published in IEEE Xplore</span>
             <br />
             <strong>DOI:</strong>{" "}
-            <a href="https://doi.org/10.1109/ICISCT67740.2026.11576503" target="_blank" rel="noreferrer">
+            <a href="https://doi.org/10.1109/ICISCT67740.2026.11576503" target="_blank">
               10.1109/ICISCT67740.2026.11576503
             </a>
           </p>
@@ -84,7 +84,7 @@ import zayed from "../../Assets/zayed.png";
             EmoNet: A Lightweight Attention-Based CNN for Speech Emotion Recognition
           </h3>
           <p>
-            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman, M. O. Yamin
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. R. Tariq, M. O. Yamin
             <br />
             <strong>Conference:</strong> IEEE IBCAST 2026 • Murree, Pakistan
             <br />
@@ -190,7 +190,7 @@ import zayed from "../../Assets/zayed.png";
             Lightweight Agentic Threat Hunting: A Cost-Aware Escalation Gate for Security Triage
           </h3>
           <p>
-            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. R. Tariq
             <br />
             <strong>Status:</strong>{" "}
             <span className="purple">Ongoing Research</span>
@@ -202,7 +202,7 @@ import zayed from "../../Assets/zayed.png";
             LiteIDS: A Lightweight Attention-Based Framework for Network Intrusion Detection
           </h3>
           <p>
-            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. R. Tariq
             <br />
             <strong>Status:</strong>{" "}
             <span className="purple">Ongoing Research</span>
