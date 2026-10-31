@@ -8,7 +8,8 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import './Home2.css'; // Make sure to import your CSS file
+import { SiGooglescholar } from "react-icons/si";
+import './Home2.css';
 
 function Home2() {
   return (
@@ -61,16 +62,16 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* <li className="social-icons">
+              {<li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://scholar.google.com/citations?user=wTqpPhAAAAAJ&hl=en"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <SiGooglescholar />
                 </a>
-              </li> */}
+              </li>}
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/moiz-khalid-84b82527a/"
