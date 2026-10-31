@@ -48,15 +48,6 @@ import zayed from "../../Assets/zayed.png";
          </Row>
 
         <h1 className="project-heading">
-           <strong className="purple">Publications </strong>
-         </h1>
-
-
-
-
-
-
-        <h1 className="project-heading">
           <strong className="purple">Publications</strong>
         </h1>
         
