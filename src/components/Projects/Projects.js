@@ -34,7 +34,7 @@ function Projects() {
               alt="Moiz Khalid"
               isBlog={false}
               title="Research Document Revision Tracker with Persistent Memory"
-              description="Designed and implemented an LLM-powered agent using Groq (gpt-oss) to track reviewer comment resolution across PDF and LaTeX document revisions. Developed a 23-table SQLite memory system to store document versions, passage-level changes, supporting evidence, verdicts, and author decisions. Integrated evidence-based verification, prompt-injection safeguards, regression detection, human approval workflows, and automated Excel review reports."
+              description="Designed and implemented an LLM-powered agent using Groq (gpt-oss) to verify whether research paper revisions in PDF and LaTeX formats adequately address reviewer comments, identifying unsupported resolution claims and regressions across drafts. Developed a persistent 23-table SQLite memory system to store document versions, passage-level diffs, evidence, verdicts, and author decisions, enabling the agent to resume work across sessions. Implemented evidence validation, prompt-injection safeguards, automated regression detection, human approval workflows, transactional writes, and Excel-based review reports."
               ghLink="https://github.com/moizkhalidd/Research-Revision-Tracker-Agent"
             />
           </Col>
