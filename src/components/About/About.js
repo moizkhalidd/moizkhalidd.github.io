@@ -107,7 +107,6 @@ import zayed from "../../Assets/zayed.png";
             >
               CLICK TO VIEW PAPER
             </a>
-            </a>
           </p>
         </div>
         
@@ -135,7 +134,6 @@ import zayed from "../../Assets/zayed.png";
               }}
             >
               CLICK TO VIEW PAPER
-            </a>
             </a>
           </p>
         </div>
