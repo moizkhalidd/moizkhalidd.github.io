@@ -52,19 +52,30 @@ import zayed from "../../Assets/zayed.png";
          </h1>
 
 
-          <div style={{ marginBottom: "30px" }}>
+
+
+
+
+        <h1 className="project-heading">
+          <strong className="purple">Publications</strong>
+        </h1>
+        
+        <div style={{ marginBottom: "30px" }}>
           <h3>
             AZNet: An Efficient Convolutional Neural Network for Alzheimer's Disease Classification
           </h3>
-        
           <p>
-            <strong>Authors:</strong> <span className="purple"> M. M. Khalid </span>, M. S. Abbas, A. Muhammad
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, M. S. Abbas, A. Muhammad
             <br />
             <strong>Conference:</strong> IEEE ICISCT 2026 • Karachi, Pakistan
             <br />
             <strong>Status:</strong>{" "}
             <span className="purple">Published in IEEE Xplore</span>
             <br />
+            <strong>DOI:</strong>{" "}
+            <a href="https://doi.org/10.1109/ICISCT67740.2026.11576503" target="_blank" rel="noreferrer">
+              10.1109/ICISCT67740.2026.11576503
+            </a>
           </p>
         </div>
         
@@ -72,14 +83,18 @@ import zayed from "../../Assets/zayed.png";
           <h3>
             EmoNet: A Lightweight Attention-Based CNN for Speech Emotion Recognition
           </h3>
-        
           <p>
-            <strong>Authors:</strong> <span className="purple"> M. M. Khalid </span>, A. Rehman, M. O. Yamin
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman, M. O. Yamin
             <br />
             <strong>Conference:</strong> IEEE IBCAST 2026 • Murree, Pakistan
             <br />
             <strong>Status:</strong>{" "}
-            <span className="purple">Accepted • Publication Pending</span>
+            <span className="purple">Accepted • In Press</span>
+            <br />
+            <strong>Paper:</strong>{" "}
+            <a href="https://doi.org/10.48550/arXiv.2610.33977" target="_blank" rel="noreferrer">
+              arXiv:2610.33977
+            </a>
           </p>
         </div>
         
@@ -87,14 +102,74 @@ import zayed from "../../Assets/zayed.png";
           <h3>
             Analysing User Reviews to Identify User Concerns Around Permissions in AI Apps
           </h3>
-        
           <p>
-            <strong>Authors:</strong> B. Shah, F. Ullah, M. Watkinson,<span className="purple"> M. M. Khalid </span>,  T. K. Khan, M. Junaid
+            <strong>Authors:</strong> F. Ullah, B. Shah, M. Watkinson, <span className="purple">M. M. Khalid</span>, T. K. Khan, M. Junaid
             <br />
-            <strong>Conference:</strong> SpringerLink CAAIE 2026 • Cardiff, UK
+            <strong>Conference:</strong> Springer CAAIE 2026 • Cardiff, UK
             <br />
             <strong>Status:</strong>{" "}
-            <span className="purple">Accepted • Publication Pending</span>
+            <span className="purple">Accepted • In Press</span>
+            <br />
+            <strong>Paper:</strong>{" "}
+            <a href="https://doi.org/10.48550/arXiv.2607.29343" target="_blank" rel="noreferrer">
+              arXiv:2607.29343
+            </a>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            LLMs for Software Vulnerability Prediction and Prioritization: A Review
+          </h3>
+          <p>
+            <strong>Authors:</strong> F. Ullah, <span className="purple">M. M. Khalid</span>, S. A. Khan, H. Ahmad
+            <br />
+            <strong>Conference:</strong> IEEE ICTMOD 2026 • Paris, France
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Accepted • In Press</span>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            Security Vulnerabilities in Big Data Systems: An Empirical Study Across 19 Platforms
+          </h3>
+          <p>
+            <strong>Authors:</strong> F. Ullah, P. Gupta, <span className="purple">M. M. Khalid</span>, H. Ahmad
+            <br />
+            <strong>Journal:</strong> PeerJ Computer Science
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Under Review</span>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            Towards AI-Driven Cyber Deception Mechanism for Enterprise Networks: A Literature Review
+          </h3>
+          <p>
+            <strong>Authors:</strong> F. Ullah, <span className="purple">M. M. Khalid</span>, H. Ahmad
+            <br />
+            <strong>Type:</strong> Journal Paper
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Ready for Submission</span>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            A Machine Learning Based Approach for Detecting Failures in Big Data Systems
+          </h3>
+          <p>
+            <strong>Authors:</strong> F. Ullah, J. Hynds, <span className="purple">M. M. Khalid</span>, S. A. Khan
+            <br />
+            <strong>Type:</strong> Conference Paper
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Ready for Submission</span>
           </p>
         </div>
         
@@ -102,14 +177,37 @@ import zayed from "../../Assets/zayed.png";
           <h3>
             Australian Bushfire Intelligence with AI-Driven Environmental Analytics
           </h3>
-        
           <p>
-            <strong>Authors:</strong> T. Jois, H. Ahmad, F. Ullah, <span className="purple"> M. M. Khalid </span>
+            <strong>Authors:</strong> T. Jois, H. Ahmad, F. Ullah, <span className="purple">M. M. Khalid</span>
             <br />
             <strong>Status:</strong>{" "}
             <span className="purple">Ongoing Research</span>
           </p>
         </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            Lightweight Agentic Threat Hunting: A Cost-Aware Escalation Gate for Security Triage
+          </h3>
+          <p>
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Ongoing Research</span>
+          </p>
+        </div>
+        
+        <div style={{ marginBottom: "30px" }}>
+          <h3>
+            LiteIDS: A Lightweight Attention-Based Framework for Network Intrusion Detection
+          </h3>
+          <p>
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman
+            <br />
+            <strong>Status:</strong>{" "}
+            <span className="purple">Ongoing Research</span>
+          </p>
+        </div>      
 
 
 
