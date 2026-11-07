@@ -87,14 +87,14 @@ import zayed from "../../Assets/zayed.png";
             EmoNet: A Lightweight Attention-Based CNN for Speech Emotion Recognition
           </h3>
           <p>
-            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. R. Tariq, M. O. Yamin
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman Tariq, M. O. Yamin
             <br />
             <strong>Conference:</strong> IEEE IBCAST 2026 • Murree, Pakistan
             <br />
             <strong>Status:</strong>{" "}
-            <span className="purple">Accepted • In Press</span>
+            <span className="purple">Published in IEEE Xplore</span>
             <br />
-            <a href="https://doi.org/10.48550/arXiv.2610.33977" target="_blank"
+            <a href="https://doi.org/10.1109/IBCAST71075.2026.11761621" target="_blank"
               rel="noopener noreferrer"
               style={{
                 color: "#c770f0",
@@ -211,7 +211,7 @@ import zayed from "../../Assets/zayed.png";
             Lightweight Agentic Threat Hunting: A Cost-Aware Escalation Gate for Security Triage
           </h3>
           <p>
-            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. R. Tariq
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman Tariq
             <br />
             <strong>Status:</strong>{" "}
             <span className="purple">Ongoing Research</span>
@@ -223,7 +223,7 @@ import zayed from "../../Assets/zayed.png";
             LiteIDS: A Lightweight Attention-Based Framework for Network Intrusion Detection
           </h3>
           <p>
-            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. R. Tariq
+            <strong>Authors:</strong> <span className="purple">M. M. Khalid</span>, A. Rehman Tariq
             <br />
             <strong>Status:</strong>{" "}
             <span className="purple">Ongoing Research</span>
